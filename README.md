@@ -8,5 +8,8 @@ This repository contains the full code and example of the `AsyncView` implementa
 
 This component was discussed in this [Medium article](https://medium.com/@aab.hajjar/introduction-97ffa32f2689)
 
+# Trying it Out
+To try it out, clone the repository, and run it on any simulator.
+
 # Social
 For feedback and support, I am available on X @AbdulelahHajjar or at my email [aab.hajjar@gmail.com](mailto:aab.hajjar@gmail.com)
